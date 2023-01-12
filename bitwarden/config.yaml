@@ -24,6 +24,6 @@ schema:
   request_size_limit: int?
   ssl: bool
 slug: bitwarden
-url: https://github.com/hassio-addons/addon-bitwarden
-version: 0.18.0
+url: https://github.com/pustekuchen91/addon-bitwarden
+version: 2023.01
 webui: '[PROTO:ssl]://[HOST]:[PORT:7277]'
