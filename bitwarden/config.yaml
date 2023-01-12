@@ -4,7 +4,7 @@ arch:
 - armv7
 codenotary: codenotary@frenck.dev
 description: Open source password management solution
-image: ghcr.io/hassio-addons/bitwarden/{arch}
+image: ghcr.io/pustekuchen91/bitwarden/{arch}
 init: false
 map:
 - ssl
